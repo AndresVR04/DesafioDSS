@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<productos>
+  <producto>
+    <codigo>PROD00023</codigo>
+    <nombre>Pantalon</nombre>
+    <categoria>Textil</categoria>
+    <precio>$25.00</precio>
+    <existencias>10</existencias>
+    <descripcion>Pantalon Jeans</descripcion>
+  </producto>
+  
+<producto><codigo>PROD00029</codigo><nombre>ssss</nombre><categoria>Promocional</categoria><precio>$15.00</precio><existencias>23</existencias><descripcion>52544</descripcion></producto></productos>
